@@ -1,12 +1,7 @@
 # FamilyTree app
 
 This was the final project for SGT Java part I . 
-Our group consisted of three people - Laila Duffy, me and Marina Toporkova. 
-Project's goal was to create an app where a user could input his/her family members and build a 
-family tree. For now the app uses database file with fake family members. 
-To achieve the goal we used graphs and database. Future improvements 
-would include traversing the graph to establish different kinds of 
-relationships and displaying the family tree visually.
+Our group consisted of three people - Laila Duffy, me and Marina Toporkova. Project's goal was to create an app where a user could input his/her family member information and build a family tree. For now the app uses database file with fake family members. To achieve the goal we used graphs and database. Future improvements would include traversing the graph to establish different kinds of relationships and displaying the family tree visually, as well as possibility to provide more personal information about family members (like place of birth, education, hobbies etc.).
 
 These options are provided in the app menu:
 1. The list of all people in the Family Tree.
